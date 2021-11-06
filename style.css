@@ -48,26 +48,26 @@ a {
 @keyframes bounce {
     0% {
         transform: scale(1);
-        -webkit-transform: ;
-        -moz-transform: ;
-        -ms-transform: ;
-        -o-transform: ;
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
     }
 
     50% {
         transform: scale(1.5);
-        -webkit-transform: ;
-        -moz-transform: ;
-        -ms-transform: ;
-        -o-transform: ;
+        -webkit-transform: scale(1.5);
+        -moz-transform: scale(1.5);
+        -ms-transform: scale(1.5);
+        -o-transform: scale(1.5);
     }
 
     100% {
         transform: scale(1);
-        -webkit-transform: ;
-        -moz-transform: ;
-        -ms-transform: ;
-        -o-transform: ;
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
     }
 }
 
